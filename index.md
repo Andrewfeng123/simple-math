@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to Rando](./rando)
 
+[Whole numbers](./whole_numbers)
+
 <details>
   <summary>Click me</summary>
   
