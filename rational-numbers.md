@@ -5,7 +5,7 @@ A rational number is a number that can be written as $\dfrac ab$ where $a$ and $
 - $5$. It might not seem like a rational number, but it is, because it can be expressed as $\dfrac51$.
 - Literally any other integer. Every integer is a rational number because it can be expressed as $\dfrac{\text{that integer}}1$.
 - $\dfrac22$. It is a rational number since it is a fraction.
-- $-\,\dfrac53$. Rational numbers can also be negative!
+- $-\dfrac53$. Rational numbers can also be negative!
 
 A fraction can be written in horizontal form like $1/2$ or ½, or it can be written in vertical form like $\dfrac12$.
 
